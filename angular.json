@@ -30,7 +30,7 @@
               "src/styles.css"
             ],
             "scripts": [],
-            "baseHref": "/"
+            "baseHref": "/transport-facility/browser"
           },
           "configurations": {
             "production": {
